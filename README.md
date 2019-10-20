@@ -10,25 +10,27 @@ To run the project right away:
 * start the development server with `npm start`
 
 ## What You're Getting
- app.
-package.json # npm package manager file. It's unlikely that you'll need to modify this.
-public
-   favicon.ico
-   index.html
-src
- App.css # Styles for the app.
- App.js # This is the root of your app. Contains App Component.
- App.test.js # Used for testing. Provided with Create React App. Testing is encouraged, but not required.
- BooksAPI.js # A JavaScript API for the provided Udacity backend. Instructions for the methods are below.
- ListBooks.js # React Component to List Books according to shelf name.
- Book.js # React Component to display a book.
- SearchBook.js # React Component to List Books according to shelf name.
- index.css # Global styles.
- index.js # It is used for DOM rendering only.
- icons # Helpful images for this app.
-  add.svg
-  arrow-back.svg
-  arrow-drop-down.svg
+myreads
+	public/
+		favicon.ico
+		index.html
+	src/
+		App.css # Styles for the app.
+		App.js # This is the root of your app. Contains App Component.
+		App.test.js # Used for testing. Provided with Create React App. Testing is encouraged, but not required.		
+		BooksAPI.js # A JavaScript API for the provided Udacity backend.
+		ListBooks.js # React Component to List Books according to shelf name.
+		SearchBook.js # React Component to Search books according to book name.
+		Book.js # React Component to display a book.
+		index.css # Global styles.
+		index.js # It is used for DOM rendering only.
+		icons/ # Helpful images for this app.
+			add.svg
+			arrow-back.svg
+			arrow-drop-down.svg	
+	package.json
+	README.md
+
  
 
 ## Backend Server

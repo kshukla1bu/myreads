@@ -10,26 +10,26 @@ To run the project right away:
 * start the development server with `npm start`
 
 ## What You're Getting
-myreads
-	public/
-		favicon.ico
-		index.html
-	src/
-		App.css # Styles for the app.
-		App.js # This is the root of your app. Contains App Component.
-		App.test.js # Used for testing. Provided with Create React App. Testing is encouraged, but not required.		
-		BooksAPI.js # A JavaScript API for the provided Udacity backend.
-		ListBooks.js # React Component to List Books according to shelf name.
-		SearchBook.js # React Component to Search books according to book name.
-		Book.js # React Component to display a book.
-		index.css # Global styles.
-		index.js # It is used for DOM rendering only.
-		icons/ # Helpful images for this app.
-			add.svg
-			arrow-back.svg
-			arrow-drop-down.svg	
-	package.json
-	README.md
+myreads<br/>
+--public/<br/>
+		----favicon.ico<br/>
+		----index.html<br/>
+	src/<br/>
+		----App.css # Styles for the app.<br/>
+		----App.js # This is the root of your app. Contains App Component.<br/>
+		----App.test.js # Used for testing. Provided with Create React App. Testing is encouraged, but not required.<br/>		
+		----BooksAPI.js # A JavaScript API for the provided Udacity backend.<br/>
+		----ListBooks.js # React Component to List Books according to shelf name.<br/>
+		----SearchBook.js # React Component to Search books according to book name.<br/>
+		----Book.js # React Component to display a book.<br/>
+		----index.css # Global styles.<br/>
+		----index.js # It is used for DOM rendering only.<br/>
+		----icons/ # Helpful images for this app.<br/>
+			------add.svg<br/>
+			------arrow-back.svg<br/>
+			------arrow-drop-down.svg	<br/>
+	--package.json<br/>
+	--README.md<br/>
 
  
 

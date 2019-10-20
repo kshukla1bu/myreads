@@ -9,7 +9,7 @@ To run the project right away:
 * install all project dependencies with `npm install`
 * start the development server with `npm start`
 
-## What You're Getting
+## Project Contents
 myreads<br/>
 --public/<br/>
 		----favicon.ico<br/>

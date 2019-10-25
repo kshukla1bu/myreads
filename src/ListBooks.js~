@@ -21,7 +21,6 @@ class ListBooks extends Component
                        {name: 'Want to Read', data : showWantTo},
                        {name: 'Read', data : showRead} ]
         return(
-
                 <div className="list-books-content">
                 <div className="list-books-title">
                     <h1>MyReads</h1>
